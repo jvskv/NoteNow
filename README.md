@@ -1,4 +1,4 @@
-NoteNow mmuistiinpano-sovellus
+NoteNow muistiinpano-sovellus
 Tämä on yksinkertainen mobiilisovellus, joka mahdollistaa muistiinpanojen tallentamisen ja hallinnoinnin. Sovellus on toteutettu käyttäen seuraavia teknologioita:
 - React Native: Sovellus on kehitetty käyttäen React Native -kirjastoa, joka mahdollistaa ristialustaisten mobiilisovellusten kehittämisen JavaScriptillä.
 - Firebase: Sovellus käyttää Firebasea pilvipalveluna tietokannan ja käyttäjähallinnan tarjoamiseen.
